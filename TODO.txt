@@ -1,0 +1,19 @@
+Project Name ~ Glasses Frame Shape Recommender 
+
+Functional Requierments : 
+
+FR1 ~ Gather facial shape dataset (DONE)
+FR2 ~ Select Suitable classification models (DONE)  [ CNN, InceptionV3, MobileNet, Novel approach ] 
+FR3 ~ Build the models 
+FR4 ~ Train, Test and evaluate the models 
+FR5 ~ Select and Save the best performing model 
+FR6 ~ Select suitable realtime object detection framework 
+FR7 ~ adjust the frame work to identify the face of the user 
+FR8 ~ Using the trained classifier model classify the shape of the users face 
+FR9 ~ Gather information for the type of frames for different faces 
+FR10 ~ Recomend a frame shape to the user 
+
+Non Functional requirements : 
+
+NFR1 ~ Develop HTML CSS JS pages to integrate the system in a 
+user friendly web app 

@@ -10,7 +10,11 @@ result, image = cam.read()
 if result:
     cv2.imshow("Image", image)
 
-    waitkey(0)
+    print(image)
+
+    # cv2.waitKey(5000)
+
+    cv2.waitKey(0)
     destroyWindow("Image")
 else:
     print("No image")
